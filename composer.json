@@ -1,0 +1,8 @@
+{
+    "require": {
+        "twig/twig": "1.15.*@dev",
+        "querypath/querypath": "dev-master",
+        "nesbot/carbon": "dev-master"
+    }
+
+}

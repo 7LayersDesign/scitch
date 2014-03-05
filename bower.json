@@ -1,0 +1,18 @@
+{
+  "name": "scitch",
+  "version": "0.0.1",
+  "homepage": "--",
+  "authors": [
+    "Andy <ahutchins@scrippsnetworks.com>"
+  ],
+  "description": "An application for viewing data collected with MDScapper .",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
